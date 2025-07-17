@@ -106,4 +106,4 @@ Y envia tu chistardo negrardo.
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [https://github.com/Vicemi/chistesnegros/blob/main/LICENSE](LICENSE) para más detalles.
