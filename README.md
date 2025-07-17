@@ -1,7 +1,7 @@
 # chistesnegros 🖤
 
 [![npm version](https://img.shields.io/npm/v/chistesnegros.svg?style=flat-square)](https://www.npmjs.com/package/chistesnegros)
-[![License](https://img.shields.io/npm/l/chistesnegros?style=flat-square)](https://github.com/tu-usuario/chistesnegros/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/chistesnegros?style=flat-square)](https://github.com/Vicemi/chistesnegros/blob/main/LICENSE)
 
 Paquete de chistes de humor negro en español para proyectos Node.js. Ideal para bots, aplicaciones de entretenimiento o cualquier proyecto que requiera un toque de humor ácido.
 
