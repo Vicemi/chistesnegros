@@ -1,0 +1,13 @@
+{
+  "name": "chistesnegros",
+  "version": "1.0.6",
+  "description": "Un npm to guapo de chistes bien negronis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["chistes","chistesnegros", "humor", "español"],
+  "author": "Vicemi Dev",
+  "license": "GPL-3.0",
+  "type": "commonjs"
+}
