@@ -13,9 +13,26 @@ Paquete de chistes de humor negro en español para proyectos Node.js. Ideal para
   - [Node.js](#nodejs)
   - [Bot de Discord](#bot-de-discord)
   - [API con Express](#api-con-express)
+- [Aportaciones](#aportaciones)
 - [Advertencia](#advertencia)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
+
+## 🏆 Top 10 Aportadores de Chistes
+
+Agradecemos a quienes han contribuido con sus chistes. ¡Aquí está el ranking de los usuarios que más han aportado!
+
+<div align="center">
+
+| 🥇 Puesto | 👤 Usuario      | 💬 Chistes aportados |
+|:--------:|:--------------:|:-------------------:|
+| 1        | **Krauser366** | 4                   |
+| 2        | **GabrielVz**  | 4                   |
+
+</div>
+
+> ¿Quieres aparecer en el top?  
+> ¡Envía tus en el formulario que se encuentra mas abajo!
 
 ## 🚀 Instalación
 
@@ -99,11 +116,11 @@ Este paquete contiene **humor negro** que puede resultar **ofensivo**. Está pen
 
 Entra a [vicemi.dev/chistesnegros](https://vicemi.dev/chistesnegros)
 
-Y envia tu chistardo negrardo.
+Y envía tu chiste.
 
 - O puedes unirte al Discord para sugerir chistes o reportar errores:  
   [https://discord.gg/wR7EqNShXX](https://discord.gg/wR7EqNShXX)
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [https://github.com/Vicemi/chistesnegros/blob/main/LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia **GPL v3**. Consulta el archivo [LICENSE](https://github.com/Vicemi/chistesnegros/blob/main/LICENSE) para más detalles.
